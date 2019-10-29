@@ -1,0 +1,380 @@
+E:\Education\4kurs\ADO.Net\db\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Education\4kurs\ADO.Net\db\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Education\4kurs\ADO.Net\db\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Education\4kurs\ADO.Net\db\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Education\4kurs\ADO.Net\db\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Education\4kurs\ADO.Net\db\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Education\4kurs\ADO.Net\db\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SqlClient.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Education\4kurs\ADO.Net\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SqlClient.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Education\4kurs\ado.net\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\appsettings.json
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Olha Melnyk\Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\appsettings.json
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\horiu\Downloads\Telegram Desktop\Нова папка\lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\appsettings.json
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Olha Melnyk\Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
