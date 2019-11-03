@@ -310,6 +310,10 @@
     <Compile Include="Migrations\20191029175257_five.designer.cs">
       <DependentUpon>20191029175257_five.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20191103160107_six.cs" />
+    <Compile Include="Migrations\20191103160107_six.designer.cs">
+      <DependentUpon>20191103160107_six.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\ApplicationContextModelSnapshot.cs" />
     <Compile Include="Models\Course.cs" />
     <Compile Include="Program.cs" />

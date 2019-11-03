@@ -73,6 +73,10 @@ namespace ConsoleApp1.Migrations
 
                     b.HasKey("StudentSubjectRateId");
 
+                    b.HasIndex("StudentId");
+
+                    b.HasIndex("SubjectId");
+
                     b.ToTable("StudentSubjectRate");
                 });
 
@@ -101,7 +105,13 @@ namespace ConsoleApp1.Migrations
 
                     b.Property<int>("TeacherId");
 
+                    b.Property<int?>("TeachersId");
+
                     b.HasKey("TeacherSubjectId");
+
+                    b.HasIndex("SubjectId");
+
+                    b.HasIndex("TeachersId");
 
                     b.ToTable("TeacherSubjects");
                 });
@@ -134,6 +144,31 @@ namespace ConsoleApp1.Migrations
                         .WithMany("StudentSubject")
                         .HasForeignKey("SubjectId")
                         .OnDelete(DeleteBehavior.Cascade);
+                });
+
+            modelBuilder.Entity("ConsoleApp1.Models.StudentSubjectRate", b =>
+                {
+                    b.HasOne("ConsoleApp1.Models.Student", "Student")
+                        .WithMany()
+                        .HasForeignKey("StudentId")
+                        .OnDelete(DeleteBehavior.Cascade);
+
+                    b.HasOne("ConsoleApp1.Models.Subject", "Subject")
+                        .WithMany()
+                        .HasForeignKey("SubjectId")
+                        .OnDelete(DeleteBehavior.Cascade);
+                });
+
+            modelBuilder.Entity("ConsoleApp1.Models.TeacherSubject", b =>
+                {
+                    b.HasOne("ConsoleApp1.Models.Subject", "Subject")
+                        .WithMany("TeacherSubject")
+                        .HasForeignKey("SubjectId")
+                        .OnDelete(DeleteBehavior.Cascade);
+
+                    b.HasOne("ConsoleApp1.Models.Teachers", "Teachers")
+                        .WithMany("TeacherSubject")
+                        .HasForeignKey("TeachersId");
                 });
 #pragma warning restore 612, 618
         }

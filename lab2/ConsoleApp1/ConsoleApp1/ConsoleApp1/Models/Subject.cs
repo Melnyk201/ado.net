@@ -12,7 +12,8 @@ namespace ConsoleApp1.Models
         public string Name { get; set; }
         public int MaxRate { get; set; }
         public ICollection<StudentSubject> StudentSubject { get; set; }
-        
+        public ICollection<TeacherSubject> TeacherSubject { get; set; }
+
 
     }
 }
