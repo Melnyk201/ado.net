@@ -1,10 +1,60 @@
 ﻿@page
-@model IndexModel
+@model WebApplication1.Pages.School.StudentModel
+
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Index";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h1>Student</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Student[0].FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student[0].SecondName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student[0].MiddleName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student[0].Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student[0].PhoneNumb)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student[0].DateBirth)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Student)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SecondName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MiddleName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNumb)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateBirth)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

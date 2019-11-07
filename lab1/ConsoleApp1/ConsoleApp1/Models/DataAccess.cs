@@ -3,15 +3,16 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Data.SqlClient;
 
+
 namespace ConsoleApp1.Models
 {
     public class DataAccess
     {
         public void PrintStudents()
         {
-            Students students = new Students();
+            Student students = new Student();
             var connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
-            var sqlExpression = "SELECT * FROM Students";
+            var sqlExpression = "SELECT * FROM Student";
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Iнфа про студентiв\n");
             Console.ResetColor();
@@ -29,14 +30,14 @@ namespace ConsoleApp1.Models
                     while (reader.Read())
                     {
 
-                        students.Id = (int)reader.GetValue(0);
+                        students.StudentId = (int)reader.GetValue(0);
                         students.FirstName = (string)reader.GetValue(1);
                         students.SecondName = (string)reader.GetValue(2);
                         students.MiddleName = (string)reader.GetValue(3);
                         students.Address = (string)reader.GetValue(4);
                         students.PhoneNumb = (int)reader.GetValue(5);
                         students.DateBirth = (DateTime)reader.GetValue(6);
-                        Console.WriteLine($"{students.Id}  {students.FirstName}  {students.SecondName}  {students.MiddleName}\t{students.Address}\t{students.PhoneNumb}\t{students.DateBirth}");
+                        Console.WriteLine($"{students.StudentId}  {students.FirstName}  {students.SecondName}  {students.MiddleName}\t{students.Address}\t{students.PhoneNumb}\t{students.DateBirth}");
                     }
                 }
                 reader.Close();
@@ -75,7 +76,7 @@ namespace ConsoleApp1.Models
         }
         public void PrintSubjects()
         {
-            Subjects subjects = new Subjects();
+            Subject subjects = new Subject();
             var connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
             var sqlExpression = "SELECT * FROM Subjects";
             Console.ForegroundColor = ConsoleColor.Yellow;
@@ -94,11 +95,11 @@ namespace ConsoleApp1.Models
                     while (reader.Read())
                     {
 
-                        subjects.Id = (int)reader.GetValue(0);
+                        subjects.SubjectId = (int)reader.GetValue(0);
                         subjects.Name = (string)reader.GetValue(1);
                         subjects.MaxRate = (int)reader.GetValue(2);
                        
-                        Console.WriteLine($"{subjects.Id}\t{subjects.Name}\t\t{subjects.MaxRate}");
+                        Console.WriteLine($"{subjects.SubjectId}\t{subjects.Name}\t\t{subjects.MaxRate}");
                     }
                 }
                 reader.Close();
@@ -106,13 +107,13 @@ namespace ConsoleApp1.Models
         }
         public void PrintInfoAboutSгccess()
         {
-            Students students = new Students();
-            Subjects subjects = new Subjects();
+            Student students = new Student();
+            Subject subjects = new Subject();
             StudentSubjectRate studentSubjectRate = new StudentSubjectRate();
 
             var connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
             //var sqlExpression = "SELECT * FROM StudentSubjectRate";
-            var sqlExpression = "SELECT FirstName, SecondName, MiddleName, Name, Rate, Month FROM Students, Subjects, StudentSubjectRate WHERE Students.id = StudentId AND Subjects.id = SubjectId";
+            var sqlExpression = "SELECT FirstName, SecondName, MiddleName, Name, Rate, Month FROM Student, Subjects, StudentSubjectRate WHERE Student.StudentId = StudentSubjectRate.StudentId AND Subjects.SubjectId = StudentSubjectRate.SubjectId";
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Iнфа про успішність\n");
             Console.ResetColor();

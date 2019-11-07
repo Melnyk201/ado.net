@@ -1,18 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApp1.Models
 {
-    class StudentSubject
+    public class StudentSubject
     {
-        [Key]
-        public int SrudentId { get; set; }
+        public int StudentSubjectId { get; set; }
+        [ForeignKey("StudentId")]
+        public int StudentId { get; set; }
+        [ForeignKey("SubjectId")]
         public int SubjectId { get; set; }
-        
+        public Subject Subject { get; set; }
+        public Student Student { get; set; }
 
     }
 }

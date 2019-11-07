@@ -9,10 +9,10 @@ namespace ConsoleApp1.Models
 {
     class ApplicationContext : DbContext
     {
-        public DbSet<Students> Students { get; set; }
+        public DbSet<Student> Student { get; set; }
         public DbSet<StudentSubject>  StudentSubjects { get; set; }
         public DbSet<StudentSubjectRate> StudentSubjectRates { get; set; }
-        public DbSet<Subjects> Subjects { get; set; }
+        public DbSet<Subject> Subjects { get; set; }
         public DbSet<Teachers> Teachers { get; set; }
         public DbSet<TeacherSubject> TeacherSubjects { get; set; }
 

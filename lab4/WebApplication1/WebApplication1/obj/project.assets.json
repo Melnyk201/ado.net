@@ -8557,11 +8557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Education\\4kurs\\ado.net\\lab3\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\4kurs\\ado.net\\lab4\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Education\\4kurs\\ado.net\\lab3\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\4kurs\\ado.net\\lab4\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Olha Melnyk\\.nuget\\packages\\",
-      "outputPath": "D:\\Education\\4kurs\\ado.net\\lab3\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\4kurs\\ado.net\\lab4\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Olha Melnyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
